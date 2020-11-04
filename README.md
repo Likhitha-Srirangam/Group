@@ -4,15 +4,19 @@
 #Madhuri Vijay
 #Chandana B N
 
-Hospitals Near Me
+Care Zone
+
 November 04, 2020
 
 Overview:
-  “Hospitals Near me” app makes easy for migrants to find hospitals near them. In addition, this app keeps the track of availability of hospital beds, number of general wards and ICU wards, specialization present in the specified hospital.
+  “Care Zone” app makes easy for migrants to find hospitals near them. In addition, this app keeps the track of availability of hospital beds, number of general wards and ICU wards, specialization present in the specified hospital.
 
 Goals:
- 	It helps to decrease the death rate.
- 	To know the availability of hospital beds.
+ 1. It helps to decrease the death rate.
+ 2.	To know the availability of hospital beds.
+ 3. Boosts customer loyalty.
+ 4. Saves time.
+ 
 
 Working Methodology:
   This app requires a GPS tracking system and Hospital Database Manage.
