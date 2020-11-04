@@ -1,4 +1,7 @@
-#Trio
+                                            REVA  HACK</>
+                                                2020
+                                            Elevator Pitch    
+#The Crew
 #Likhitha S
 #Manasa M A
 #Madhuri Vijay
