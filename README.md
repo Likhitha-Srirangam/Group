@@ -1,7 +1,4 @@
-                                            REVA  HACK</>
-                                                2020
-                                            Elevator Pitch    
-#The Crew
+#Trio
 #Likhitha S
 #Manasa M A
 #Madhuri Vijay
@@ -19,11 +16,16 @@ Goals:
  2.	To know the availability of hospital beds.
  3. Boosts customer loyalty.
  4. Saves time.
+ 5. Eliminate Anxiety.
+ 6. Easy to Use
+ 7. Considers the safety of the customers.
+ 8. Reduces High risk for pregnant women for searching hostipals during childbirth.
+ 9. Saves the life of Asthma attack patient, Heart attack patient, Diabetes patient and Stoke attack patient.
  
 
 Working Methodology:
-  This app requires a GPS tracking system and Hospital Database Manage.
-This app accesses the location of user and displays the Hospitals near the user. The user have to select a hospital among them, then the app access the hospital database of the selected hospital and displays the number of wards, availability of hospital beds and specialization available in that hospital.
+This app requires a GPS tracking system and Hospital Database Manage.
+This app accesses the location of user and displays the Hospitals near the user. The user have to select a hospital among them, then the app access the hospital database of the selected hospital and displays the number of wards, availability of hospital beds and specialization available in that hospital.Later if the requirements are satisfied by the user then the app activates the GPS and determines the location of the hospital and it also helps the user to navigate through the fastest and flexible route from the user's location to the hospital's location.
 
 Specifications:
   The hardware and software requirements for the mobile app development include:
